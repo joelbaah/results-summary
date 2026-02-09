@@ -1,3 +1,14 @@
 body {
     background-color: hsl(221, 100%, 96%)
+} 
+
+.result-container {
+    background-color: white;
+    width: 350px;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.result-card {
+    margin: 20px 20px;
 }
