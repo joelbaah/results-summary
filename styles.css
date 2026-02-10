@@ -4,11 +4,44 @@ body {
 
 .result-container {
     background-color: white;
-    width: 350px;
+    width: 750px;
     border-radius: 20px;
-    padding: 20px;
+    margin: 0 auto;
+    height: 350px;
+    
 }
 
 .result-card {
     margin: 20px 20px;
 }
+
+.result-left {
+    background-color: pink;
+    display: inline-block;
+    width: 45%;
+    border-radius: 20px;
+    height: 350px;
+    text-align: center;
+    
+}
+
+.left-content {
+    
+}
+
+.result-right {
+    background-color: white;
+    display: inline-block;
+    width: 50%;
+    float: right;
+}
+
+.result-number {
+    background-color: indianred;
+    padding: 10px;
+    border-radius: 100%;
+    text-align: center;
+    width: 10%;
+    margin: 0 auto;
+}
+
